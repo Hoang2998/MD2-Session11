@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- 
+        1.Hàm
+        2.được truyền làm đối số của hàm khác
+        vấn đề : callback hell
+     -->
+     <script>
+        // vd callback
+        let sdt;
+        function xinSdt(callback){
+            console.log("cho xin so dien thoai")
+            setTimeout(()=>{
+                sdt = "09888888"
+                callback(sdt)
+
+            },3000)
+        }
+        xinSdt(goiKhicoso)
+        function goiKhicoso(){
+            console.log(`goi theo so ${sdt}`)
+        }
+     </script>
+</body>
+</html>

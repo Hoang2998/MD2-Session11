@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "name": "Hoang",
+      "mnv": "NV001",
+      "date": "29/01/1999",
+      "sex": "Nam",
+      "Address": "Ha Noi",
+      "id": 1
+    },
+    {
+      "mnv": "nv004",
+      "name": "hoa",
+      "date": "2023-11-02",
+      "sex": "Nu",
+      "Address": "hai phong",
+      "id": 4
+    },
+    {
+      "mnv": "nv003",
+      "name": "mai",
+      "id": 5
+    },
+    {
+      "mnv": "nv001",
+      "name": "asdasd",
+      "id": 6
+    },
+    {
+      "mnv": "asdasd",
+      "name": "asdasd",
+      "id": 7
+    }
+  ]
+}

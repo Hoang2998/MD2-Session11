@@ -1,0 +1,84 @@
+{
+  "user": [
+    {
+      "name": "were",
+      "email": "werew",
+      "password": "1111",
+      "id": 1
+    },
+    {
+      "name": "123",
+      "email": "111",
+      "password": "111",
+      "id": 2
+    },
+    {
+      "name": "qweqw",
+      "email": "rgcscrpirnimpmp@triots.com",
+      "password": "1111",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "aa",
+      "password": "aa",
+      "id": 4
+    },
+    {
+      "name": "wwww",
+      "email": "pmp@triots.com",
+      "password": "111",
+      "id": 5
+    },
+    {
+      "name": "ad",
+      "email": "0793235498",
+      "password": "aaaa",
+      "id": 6
+    },
+    {
+      "name": "111",
+      "email": "0961807166",
+      "password": "1111",
+      "id": 7
+    }
+  ],
+  "products":[
+    {
+      "id":111,
+      "name":"iphone",
+      "product":[
+        {
+          "name":"iphone 16",
+          "id":"1112",
+          "price":5000
+
+        }
+      ]
+    },
+    {
+      "id":222,
+      "name":"Samsung",
+      "product":[
+        {
+          "name":"Samsung 16",
+          "id":"2221",
+          "price":6000
+
+        },
+        {
+          "name":"Samsung 18",
+          "id":"2222",
+          "price":8000
+
+        },
+        {
+          "name":"Samsung 26",
+          "id":"2223",
+          "price":9000
+
+        }
+      ]
+    }
+  ]
+}
